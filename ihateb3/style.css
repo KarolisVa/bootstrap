@@ -1,0 +1,55 @@
+*
+{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: 0;
+}
+
+.row
+{
+}
+
+.block1
+{
+    background-color: burlywood;
+    height: 200px;
+}
+
+.block2
+{
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.block3
+{
+    background-color: cadetblue;
+    height: 150px;
+}
+
+.block4
+{
+    background-color: darkred;
+    height: 100px;
+}
+
+.block5
+{
+    background-color: darkseagreen;
+    height: 100px;
+}
+
+.block6
+{
+    background-color: palegreen;
+}
+
+.common
+{
+    background-color: black;
+}
+
+.common2
+{
+    background-color: rgb(197, 176, 176);
+}
